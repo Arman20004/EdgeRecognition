@@ -54,8 +54,8 @@ Otherwise, copy this repository locally:
    - numba 0.60.0 requires numpy<2.1,>=1.22
    - scipy 1.13.1 requires numpy<2.3,>=1.22.4
 
-   !pip install "opencv-python<4.9.0" --force-reinstall
-   !pip install numpy==1.26.4 --force-reinstall
+   `!pip install "opencv-python<4.9.0" --force-reinstall`
+   `!pip install numpy==1.26.4 --force-reinstall`
    
 3. Ensure the `Sample/` folder is present and contains your input images.
 4. Open `.ipynb` in jupiter notebook (or other IDEE of your choice)
